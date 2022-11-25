@@ -1,5 +1,7 @@
-![image](https://user-images.githubusercontent.com/86501179/203874862-4a738908-0618-4214-9561-dde88ba23a84.png)
+![image](https://user-images.githubusercontent.com/86501179/203875647-d6452429-ccf3-46d4-a4d1-9d6b19998caf.png)
+We are a group of developers dedicated to bringing positive change to all developers
 
-Owned and Supervised by [@InimicalPart](https://github.com/InimicalPart) & [@1RB](https://github.com/1RB)
+# Owned and Supervised by:
+![image](https://user-images.githubusercontent.com/86501179/203876108-5cd40dad-4739-48d6-a2f5-cf6347c74c35.png)
 
-Check out our Pinned Repos Below and follow to keep up with any updates
+*Check out our Pinned Repos Below and follow to keep up with any updates*
